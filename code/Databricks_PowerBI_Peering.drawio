@@ -308,6 +308,15 @@
         <mxCell id="SJb1NoYIY814N6KFtLa0-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 15px;&quot;&gt;/@Vishwasp13&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="100" x="825" y="1060" as="geometry" />
         </mxCell>
+        <mxCell id="SJb1NoYIY814N6KFtLa0-77" edge="1" parent="1" source="SJb1NoYIY814N6KFtLa0-17" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=#CC00CC;dashed=1;flowAnimation=1;" target="SJb1NoYIY814N6KFtLa0-19" value="&lt;font style=&quot;font-size: 15px; color: rgb(255, 0, 255);&quot; face=&quot;Lucida Console&quot;&gt;&lt;b&gt;Bi-directional TCP traffic for internal communication &lt;br&gt;like shuffle etc&lt;/b&gt;&lt;/font&gt;">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="530" />
+            </Array>
+            <mxPoint x="800" y="700" as="sourcePoint" />
+            <mxPoint x="850" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
